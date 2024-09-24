@@ -38,7 +38,7 @@ The list of numerical method incluced in this repository are as below.
 32. Euler's method.
 33. Heun;s method.
 34. Runge-kutta method.
-35. Shooting mehtod.
+35. Shooting method.
 36. Laplacian equation.
 37. Possion equation.
 ---
