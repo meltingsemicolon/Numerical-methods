@@ -21,7 +21,7 @@ The list of numerical method incluced in this repository are as below.
 15. Do-little algorithm of LU decompositon
 16. Cholesky's algorithm of LU decomposition
 17. Jacobi iteration method
-18. Gauss-sidel mthod
+18. Gauss-sidel method
 19. power method
 20. Two point forward differnce formula
 21. Two point backward diffenece formula.
